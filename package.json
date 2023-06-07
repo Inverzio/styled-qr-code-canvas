@@ -1,6 +1,6 @@
 {
   "name": "@inverzio/styled-qr-code-canvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add a style and an image to your QR code using canvas",
   "files": [
     "dist"
