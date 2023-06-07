@@ -17,9 +17,10 @@
   },
   "dependencies": {
     "qrcode-generator": "^1.4.4",
-    "skia-canvas": "^1.0.0"
+    "canvas": "^2.4.1"
   },
   "devDependencies": {
+    "@types/node": "^20.2.5",
     "@typescript-eslint/eslint-plugin": "^5.35.1",
     "@typescript-eslint/parser": "^5.35.1",
     "eslint": "^8.22.0",
