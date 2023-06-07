@@ -1,7 +1,7 @@
 {
-  "name": "@loskir/styled-qr-code-node",
-  "version": "1.5.1",
-  "description": "Add a style and an image to your QR code",
+  "name": "@inverzio/styled-qr-code-canvas",
+  "version": "1.0.0",
+  "description": "Add a style and an image to your QR code using canvas",
   "files": [
     "dist"
   ],
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loskir/styled-qr-code.git"
+    "url": "git+https://github.com/inverzio/styled-qr-code-canvas.git"
   },
   "keywords": [
     "qr",
@@ -51,14 +51,14 @@
     "image",
     "qrlogo",
     "logo",
-    "design"
+    "design",
+    "canvas"
   ],
   "author": {
-    "name": "Kirill Loskutov",
-    "email": "kl@sinker.ru"
+    "name": "Ilias Mentzelos"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loskir/styled-qr-code/issues"
+    "url": "https://github.com/inverzio/styled-qr-code-canvas/issues"
   }
 }
